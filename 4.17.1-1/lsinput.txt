@@ -1,0 +1,170 @@
+/dev/input/event0
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x5
+   version : 0
+   name    : "Lid Switch"
+   phys    : "PNP0C0D/button/input0"
+   bits ev : (null) (null)
+
+/dev/input/event1
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x6
+   version : 0
+   name    : "Video Bus"
+   phys    : "LNXVIDEO/video/input0"
+   bits ev : (null) (null)
+
+/dev/input/event2
+   bustype : BUS_USB
+   vendor  : 0x5af
+   product : 0x8266
+   version : 272
+   name    : "Jing-Mold USB Keyboard"
+   phys    : "usb-0000:00:14.0-1.2/input0"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null) (null)
+
+/dev/input/event3
+   bustype : BUS_USB
+   vendor  : 0x5af
+   product : 0x8266
+   version : 272
+   name    : "Jing-Mold USB Keyboard"
+   phys    : "usb-0000:00:14.0-1.2/input1"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null) (null)
+
+/dev/input/event4
+   bustype : BUS_HOST
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "Surface Pro 3/4 Buttons"
+   phys    : "MSHW0040/buttons"
+   bits ev : (null) (null)
+
+/dev/input/event5
+   bustype : BUS_I2C
+   vendor  : 0x45e
+   product : 0x933
+   version : 256
+   name    : "MSHW0092:00 045E:0933 Mouse"
+   phys    : "i2c-MSHW0092:00"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event6
+   bustype : BUS_I2C
+   vendor  : 0x45e
+   product : 0x933
+   version : 256
+   name    : "MSHW0092:00 045E:0933 Touchpad"
+   phys    : "i2c-MSHW0092:00"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event7
+   bustype : (null)
+   vendor  : 0x1b96
+   product : 0x1e
+   version : 0
+   name    : "ipts 1B96:001E UNKNOWN"
+   phys    : "heci3"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event8
+   bustype : (null)
+   vendor  : 0x1b96
+   product : 0x1e
+   version : 0
+   name    : "ipts 1B96:001E Pen"
+   phys    : "heci3"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event9
+   bustype : (null)
+   vendor  : 0x1b96
+   product : 0x1e
+   version : 0
+   name    : "ipts 1B96:001E Touchscreen"
+   phys    : "heci3"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event10
+   bustype : (null)
+   vendor  : 0x1b96
+   product : 0x1e
+   version : 0
+   name    : "ipts 1B96:001E Mouse"
+   phys    : "heci3"
+   uniq    : ""
+   bits ev : (null) (null) (null) (null)
+
+/dev/input/event11
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA Intel PCH Mic"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event12
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA Intel PCH Headphone"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event13
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA Intel PCH HDMI/DP,pcm=3"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event14
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA Intel PCH HDMI/DP,pcm=7"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event15
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA Intel PCH HDMI/DP,pcm=8"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event16
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA Intel PCH HDMI/DP,pcm=9"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
+/dev/input/event17
+   bustype : (null)
+   vendor  : 0x0
+   product : 0x0
+   version : 0
+   name    : "HDA Intel PCH HDMI/DP,pcm=10"
+   phys    : "ALSA"
+   bits ev : (null) (null)
+
